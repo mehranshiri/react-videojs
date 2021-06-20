@@ -1,6 +1,6 @@
 # React player using VideoJs and Resolution Switcher
 
-React video player with multiple source qualities (1080p, 720o, etc) and the ability to switch between them while playing the video.
+React video player with multiple source qualities (1080p, 720p, etc) and the ability to switch between them while playing the video.
 
 # Requirements
 * [React 15.6 or higher](https://www.reactjs.org/)
@@ -8,7 +8,7 @@ React video player with multiple source qualities (1080p, 720o, etc) and the abi
 * [videojs Library in react](https://docs.videojs.com/index.html)
 
 # Installation
-Package required to be installed globally if the recommended example app is generated:
+Packages required to be installed globally if the recommended example app is generated:
 
 - [`videojs`](https://www.npmjs.com/package/video.js)
 
